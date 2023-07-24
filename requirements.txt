@@ -1,0 +1,14 @@
+asgiref==3.7.2
+backports.zoneinfo==0.2.1
+Brotli==1.0.9
+certifi==2023.7.22
+Django==4.2.3
+mutagen==1.46.0
+numpy==1.24.4
+pycryptodomex==3.18.0
+PyYAML==5.4.1
+rglob==1.7
+sqlparse==0.4.4
+typing-extensions==4.7.1
+websockets==11.0.3
+yt-dlp==2023.7.6
